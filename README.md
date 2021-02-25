@@ -1,5 +1,5 @@
 # Top Resources - Student Submissions
-![knowledge](https://media.giphy.com/media/S3Pe5NZqgmE8Tl3NI5/giphy.gif)
+![knowledge](https://media.tenor.com/images/508aed702ed7d1ed953d09ec4857e265/tenor.gif)
 
 This is a collection of Mod 0 participants' favorite resources.
 
