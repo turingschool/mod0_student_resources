@@ -1,0 +1,5 @@
+[Codecademy](https://www.codecademy.com/)
+[Codewars](http://www.codewars.com/)
+[This guys on Youtube sometimes has a helpful video](https://www.youtube.com/user/programmingwithmosh)
+[Ruby 2d is a fun way to learn methods](https://www.ruby2d.com/)
+[Stack Overflow](https://stackoverflow.com/)
