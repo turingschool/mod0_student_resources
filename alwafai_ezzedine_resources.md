@@ -1,5 +1,5 @@
 Helpful Resources:
 1. [Google](www.google.com)
-2. [Youtube](www.youtube.com)
+2. [Youtube](https://www.youtube.com/)
 3. [Git Book](https://git-scm.com/book/en/v2)
 4. [Rubydoc](https://www.rubydoc.info/stdlib/core)
