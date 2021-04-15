@@ -8,3 +8,4 @@ Slack
 Sessions
 Homework
 Practice
+Note taking tips
