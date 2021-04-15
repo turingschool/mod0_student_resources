@@ -1,0 +1,5 @@
+[Git Book](https://git-scm.com/book/en/v2)
+[Letters to a Young Chef](https://www.amazon.com/Letters-Young-Chef-Daniel-Boulud/dp/0465093426/ref=sr_1_1?dchild=1&keywords=letters+to+a+young+chef&qid=1618473465&sr=8-1)
+[Markdown Guide](https://www.markdownguide.org/basic-syntax/#:~:text=is__bold-,Italic,without%20spaces%20around%20the%20letters.&text=Italicized%20text%20is%20the%20*cat's%20meow*.)
+[Stack Overflow](https://stackoverflow.com/)
+[GitHub](https://github.com/)
