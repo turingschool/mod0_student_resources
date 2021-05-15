@@ -5,4 +5,4 @@
 3. [Terminal commands and shortcuts guide](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
 4. [Slack shortcut guide](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts-and-commands)
 5. [Ruby basics](http://rubylearning.com/satishtalim/tutorial.html)
-6. [Google 🤪](Google.com)
+6. [GitHub flow](https://docs.github.com/en/github/getting-started-with-github/github-flow)
