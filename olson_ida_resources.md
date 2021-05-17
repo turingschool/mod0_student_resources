@@ -1,0 +1,12 @@
+https://gist.github.com/ericweissman/a729a849ed6355ed8ee0c9156a8e9c98
+https://www.marinaratimer.com/
+https://developer.mozilla.org/en-US/docs/Web/
+https://docs.ruby-lang.org/en/master/
+https://stackoverflow.com/questions
+https://www.javatpoint.com/git-log
+https://git-scm.com/docs/git-log
+https://github.com/git-guides/git-add
+https://www.honeybadger.io/blog/a-beginner-s-guide-to-exceptions-in-ruby/
+https://coderefinery.github.io/git-intro/04-staging-area/
+https://medium.com/opendev-blog/the-three-stages-of-git-16565bfa67e5
+https://learnrubythehardway.org/book/intro.html
