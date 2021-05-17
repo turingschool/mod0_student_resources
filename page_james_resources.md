@@ -1,0 +1,1 @@
+I've really been enjoying watching youtube videos. I find them really helpful when I'm stuck on something. Here is a collection of useful channels https://www.cloudways.com/blog/best-youtube-channels-to-learn-programming/
