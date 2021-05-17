@@ -1,0 +1,3 @@
+1. MDN - MDN has been a huge help overall with a ton of really good information!
+2. Other Developers - This has been my favorite resource, my mod 0 has been a really good source of information. 
+3. Stack Overflow - This is another big time saver, if you have an issue chances are there is someone else who has that same issue or something very similar. Stack Overflow gives a lot explanation to a lot of things that I have been confused about. 
