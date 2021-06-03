@@ -1,0 +1,8 @@
+[Slack Tutorial Video](https://www.youtube.com/watch?v=tfq333EpWgM)
+[Documenting the Ruby Language](https://ruby-doc.org/)
+[Stack Overflow](https://stackoverflow.com/)
+[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#3.-strings)
+[Shortcut Foo:  Slack Shortcuts](https://www.shortcutfoo.com/app/dojos/slack-win/cheatsheet)
+[Slack Help Center:  Keyboard Shortcuts](https://slack.com/help/articles/201374536-Slack-keyboard-shortcuts)
+[Beginner's Guide: Git and GitHub](https://www.coursereport.com/blog/what-is-github)
