@@ -1,0 +1,1 @@
+Google, StackExchange, Reddit, Trello, Medium are some great resources that have helped me a lot so far. Also the Mod 0 page has been super helpful. My classmates have also been an awesome resource for me going through mod 0.
