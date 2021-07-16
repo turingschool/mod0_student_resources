@@ -1,4 +1,4 @@
-## Resources
+### Resources
 
 1. [Markdown Syntax Guide](https://www.markdownguide.org/basic-syntax/)
 2. [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow)
