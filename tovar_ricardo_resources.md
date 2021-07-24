@@ -1,4 +1,4 @@
-So far some of my `favorite resources` include:
+I'm still new to all of this so I'm still trying to figure out how to do better research. But so far some of my `favorite resources` include:
 
 
 1. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
