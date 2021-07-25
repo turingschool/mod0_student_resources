@@ -5,8 +5,8 @@
 3. VS Code Tutorials with JavaScript: https://code.visualstudio.com/docs/languages/javascript  
 4. Compare implementations in 2 programming languages side-by-side: https://programming-idioms.org/about#about-block-cheatsheets  
 5. Flexbox cheetsheet: https://yoksel.github.io/flex-cheatsheet/  
-6. Codewars: codewars.com  
-7. Typing practice: typing.io  
+6. Codewars: http://codewars.com  
+7. Typing practice: http://typing.io  
 8. A great in-browser IDE: https://replit.com/  
-9. Front-end editor: codepen.io  
-10. Ruby documentation: ruby-doc.org
+9. Front-end editor: http://codepen.io  
+10. Ruby documentation: http://ruby-doc.org
