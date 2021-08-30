@@ -1,0 +1,4 @@
+resources
+- YouTube
+- Friends
+- GitHub
