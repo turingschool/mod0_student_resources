@@ -3,4 +3,4 @@ Anything stackoverflow
 Youtube!!!
 GOOGLE!!!!
 Learn Ruby The Hard Way
-A few of my alumni friends
+A few of my alumni friends!
