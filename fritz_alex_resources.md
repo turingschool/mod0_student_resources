@@ -1,4 +1,4 @@
-##Mod0 Student Resources
+## Mod0 Student Resources
 
 1. [W3 Schools](https://www.w3schools.com/)
   - Hands down the **BEST** resource I've found so far. It has answers to pretty much anything and everything. When searching for solutions to coding problems that I've had on CodePen it feels like W3 offers the least "subjective" answers to problems I've run into. Not sure if that's the right word for it, but a lot of answers on Stack Overflow and other sites seem like people argue over A LOT of solutions.
