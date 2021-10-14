@@ -1,4 +1,4 @@
-#Jake's Favorite resources
+# Jake's Favorite resources
 
 ## Online Classes
 - [CS50](https://cs50.harvard.edu)
