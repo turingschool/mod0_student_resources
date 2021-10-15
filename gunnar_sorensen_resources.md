@@ -1,4 +1,4 @@
-#My favorite resources
+# My favorite resources
 1. Google!
 2. Slack and the Mod O channel
 3. Doing the little side work in the Lessons
