@@ -1,0 +1,5 @@
+[Learn Ruby the Hard Way](https://learnrubythehardway.org/book/intro.html)
+[Ruby in 100 Minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#ruby-in-100-minutes)
+[MDN Docs](https://developer.mozilla.org/en-US/)
+[Ruby Guides](https://www.rubyguides.com/)
+[What is Git](https://www.nobledesktop.com/learn/git/what-is-git)
