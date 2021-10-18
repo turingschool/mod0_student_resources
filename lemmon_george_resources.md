@@ -1,0 +1,1 @@
+First is Google.  Hands down.  My partner went through Turing a couple of years ago.  She has been very helpful.  I have and will continue to try to avoid asking her for specific help, but her support is invaluable.  All in all, the resources provided through the course materials and lesson plans have been pretty on point.  
