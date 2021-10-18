@@ -8,3 +8,4 @@ We're using this repository for two purposes:
 - to practice forking a repo, making changes, pushing changes, and opening a pull request, and...
 - to document resources that others may find helpful in the future!
 
+Some resources ive used so far are replit, reddit, google and code pen
