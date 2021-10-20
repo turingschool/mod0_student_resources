@@ -4,3 +4,4 @@ Favorite resources so far in Turing:
  Google
  Colored pens and notebook to take notes in
  Notion to digitize notes
+ Tapping
