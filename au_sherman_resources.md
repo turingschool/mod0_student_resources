@@ -1,4 +1,4 @@
--[Google](google.com)
--[Git command references](https://git-scm.com/docs)
--[Stackoverflow](https://stackoverflow.com/)
--[Ruby Syntax](https://www.ruby-lang.org/en/documentation/faq/6/)
+- [Google](google.com)
+- [Git command references](https://git-scm.com/docs)
+- [Stackoverflow](https://stackoverflow.com/)
+- [Ruby Syntax](https://www.ruby-lang.org/en/documentation/faq/6/)
