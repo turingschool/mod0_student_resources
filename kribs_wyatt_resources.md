@@ -1,3 +1,3 @@
-The slack community and the ability to talk to others who are on the same journey.
-Having a friend who is experienced in the field and able to help with so much.
-Having family who may not know what is going on necessarily but are happy to help.
+My Parents, who are assisting me financially and emotionally on this path.
+My friend Jeremy, an industry veteran with much knowledge to share.
+My fellow Turing students in the slack community, who are right there with me in their learning and their questions and are more than willing to cooperate. 
