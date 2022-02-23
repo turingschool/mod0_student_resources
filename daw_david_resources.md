@@ -1,0 +1,3 @@
+1. I've found [codecademy's cheatsheets](https://www.codecademy.com/resources/cheatsheets/all) really helpful and well formatted when trying to remember commands for javascript.
+2. I've been using a pomodoro app called [Be Focused Pro] (https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html?utm_source=zapier.com&utm_medium=referral&utm_campaign=zapier) That just sits up in your menu bar and lets you categorize pomodoros and just generally feels really nice and easy to use to track stuff.
+3. Atom actually has a built in interface for using git that...I don't know if that counts as a resource but it just makes git commits so easy to visualize and makes writing messages way nicer.
