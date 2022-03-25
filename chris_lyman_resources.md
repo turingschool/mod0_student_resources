@@ -1,0 +1,3 @@
+- https://www.markdownguide.org/basic-syntax/
+- http://ruby-for-beginners.rubymonstas.org/
+- https://stackoverflow.com/
