@@ -1,0 +1,3 @@
+- https://cbea.ms/git-commit/
+- https://git-scm.com/docs
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
