@@ -1,5 +1,5 @@
-Things that have helped me so far:
-\pagebreak Google,
-Youtube,
-Current Turing student Jordan Skomal,
-and Friends with coding experience
+Things that have helped me so far: <br>
+Google, <br>
+Youtube, <br>
+Current Turing student Jordan Skomal, <br>
+and Friends with coding experience 
