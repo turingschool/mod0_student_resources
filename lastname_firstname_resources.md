@@ -1,0 +1,1 @@
+Honestly, just watching Phil and Cydnee go through the process on their own terminal has given me everything I need to do it on my own. I also really enjoy the collaborative aspect of working with my classmates.
