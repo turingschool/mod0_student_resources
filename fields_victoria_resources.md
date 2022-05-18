@@ -1,0 +1,3 @@
+I found [this guide](https://gist.github.com/ericweissman/fb0241e226227867b6bc70a4d49227f5) very helpful when it comes to constructing proper questions.
+I also find myself revisiting [this markdown cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for curating .md files!
+I also bookmarked the [Pomodoro Technique](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/) information, the [Mod 0 extensions](https://mod0.turing.edu/project/extensions) page for further learning once Mod 0 ends, and this seemingly helpful [JavaScript for beginners playlist](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) on YouTube!
