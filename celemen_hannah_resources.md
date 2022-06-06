@@ -12,5 +12,4 @@ June 6, 2022
 
 [Learn React and practicewriting JSX](https://reactjs.org/)
 
-
-
+[How to create pull request on GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
