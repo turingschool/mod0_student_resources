@@ -8,6 +8,9 @@ June 6, 2022
 
 [Practice HTML, CSS, and Javascript with Freecodecamp!](https://www.freecodecamp.org/learn)
 
+[Practice Javascript Challenges here!](https://edabit.com/challenges/javascript)
+
 [Learn React and practicewriting JSX](https://reactjs.org/)
 
-[GitHub saves all my project and assignments here](https://github.com/ohClaire?tab=repositories)
+
+
